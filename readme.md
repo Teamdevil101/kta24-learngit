@@ -4,3 +4,5 @@ I git my projects using git because git is good. Don't confuse it with Github. T
 ~~Ew. No.~~
 
 Mama mia!
+
+![alt text](image.png)
